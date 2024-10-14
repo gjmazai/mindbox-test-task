@@ -1,1 +1,0 @@
-export {TabsTask} from './TabsTask';
